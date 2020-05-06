@@ -18,3 +18,8 @@ nav {
   background: grey;
   text-align: center;
 }
+
+figcaption{
+  text-align: center;
+  font-size: 10
+}
