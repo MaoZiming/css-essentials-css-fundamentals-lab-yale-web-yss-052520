@@ -40,4 +40,5 @@ div {
   background: grey;
   width: 25%;
   text-align: center;
+  float: left;
 }
