@@ -13,3 +13,7 @@ img {
   margin: 0 auto
 
 }
+nav {
+  padding: 10px;
+  background: grey;
+}
