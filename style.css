@@ -23,6 +23,9 @@ figcaption{
   text-align: center;
   font-size: 10px;
 }
+p#featured-property {
+  color: blue;
+}
 
 p#featured-property {
   width: 800px;
